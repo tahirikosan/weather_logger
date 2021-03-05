@@ -11,4 +11,4 @@ I used MVVM structure
 * [Room](https://developer.android.com/jetpack/androidx/releases/room) - Room for local database
 * [Kotlin](https://developer.android.com/kotlin) - Kotlin as programming language
 ## Authors
-* **Tahir Abuzetoglu** - *Initial work* - [tahirikosan](https://github.com/tahirikosan)
+* **Tahir Abuzetoglu**  - [tahirikosan](https://github.com/tahirikosan)
